@@ -1,3 +1,5 @@
+> 原文来自: [如何更快地编写代码之 VS 代码版](https://dev.to/kinginit/how-to-code-faster-vs-code-edition-4pa)
+
 # Copy and paster smarter
   1. Ctrl + Shift + left/right increase/decrease selection by words
   2. Shift + left/right increase/decrease selection by character
