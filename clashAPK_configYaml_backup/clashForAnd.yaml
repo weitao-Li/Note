@@ -1,0 +1,10 @@
+proxies:
+  # http
+  - name: "gost"
+    type: http
+    server: click.weitaoli.xyz
+    port: 443
+    username: wli
+    password: "aB1!1234"
+    tls: true # https
+    skip-cert-verify: true
